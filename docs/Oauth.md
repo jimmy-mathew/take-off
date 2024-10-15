@@ -49,7 +49,7 @@ This flow can benefit apps that can securely retain Client Secrets. It lets your
 
 Use Cases: Apps that need immediate access to data about the user, but also need to use this data on an ongoing basis.
 
-## 6. 6. Device Authorization Flow
+## 6. Device Authorization Flow
 
 This flow makes it possible to authenticate users without asking for their credentials. This provides a better user experience for mobile devices, where it may be more difficult to type credentials. Applications on these devices can transfer their Client ID to the Device Authorization Flow to start the authorization process and obtain a token.
 
