@@ -65,3 +65,5 @@ Use Cases: Apps that need to serve unknown public clients who may introduce addi
 # References 
 
 https://frontegg.com/blog/oauth-flows
+
+https://datatracker.ietf.org/doc/html/rfc6749
