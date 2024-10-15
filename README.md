@@ -1,3 +1,3 @@
 
 # Learning materials
-    [Decrypt SSL/TLS traffic](docs/DecryptSSL.md)
+    [Decrypt SSL/TLS traffic](https://github.com/jimmy-mathew/take-off/blob/main/docs/DecryptSSL.md)
