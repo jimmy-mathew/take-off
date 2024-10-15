@@ -38,12 +38,12 @@ The RSA private key file can only be used in the following circumstances:
     The session has not been resumed. The handshake must include the ClientKeyExchange handshake message.
 
 The key log file is generally recommended since it works in all cases, but requires the continuous ability to export the secrets from either the client or server application. The only advantage of the RSA private key is that it needs to be configured only once in Wireshark to enable decryption, subject to the above limitations.
-
+# Start ssl key log file capture from client
 From Windows 10 Client
 1. Set an enviornment variable SSLKEYLOGFILE
 
 From SUSE
 1. export SSLKEYLOGFILE="/root/sslkeylog.log"
 
-Load ssl key file in wireshark
+# Load ssl key file in wireshark
     Edit -> Preferences -> Protocols -> TLS -> (Pre)-Master-Secret log file name
