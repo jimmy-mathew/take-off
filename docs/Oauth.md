@@ -1,5 +1,5 @@
 # OAuth flow types
-## 1. Authorication code flow
+## 1. Authorization code flow
 Authorization Code Flow exchanges an authorization code for a token. For this exchange to take place, you have to also pass along your app’s Client Secret. The secret must be securely stored on the client side. The implicit flow is suitable for applications that access APIs and cannot store sensitive information.
 
 Use Cases: Server side web applications where the source code is not exposed publicly.
