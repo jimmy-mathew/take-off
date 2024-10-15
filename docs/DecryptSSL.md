@@ -1,3 +1,21 @@
+# SSL vs TLS
+
+                        SSL                                                                         TLS
+
+Stands For              SSL means Secure Sockets Layer.                                             TLS means Transport Layer Security.
+
+Version History         SSL is now replaced with TLS. SSL moved through versions 1.0, 2.0, and 3.0. TLS is the upgraded version of SSL. TLS has moved through versions                                                                                                       1.0, 1.1, 1.2, and 1.3.
+
+Activity                Every SSL version is now deprecated.                                        TLS versions 1.2 and 1.3 are actively used.
+
+Alert Messages          SSL has only two types of alert messages. Alert messages are unencrypted.   TLS alert messages are encrypted and more diverse.
+
+Message Authentication  SSL uses MACs.                                                              TLS uses HMACs.
+
+Cipher Suites           SSL supports older algorithms with known security vulnerabilities.          TLS uses advanced encryption algorithms.
+
+Handshake               An SSL handshake is complex and slow.                                       A TLS handshake has fewer steps and a faster connection.
+
 # TLS Decyption
 Wireshark supports TLS decryption when appropriate secrets are provided. The three available methods are:
 
