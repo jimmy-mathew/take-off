@@ -61,6 +61,7 @@ This flow uses a proof key for code exchange (PKCE). A secret known as a Code Ve
 
 Use Cases: Apps that need to serve unknown public clients who may introduce additional security issues that are not addressed by the Auth Code Flow. 
 
+![auth code](../assets/images/auth_code.jpg)
 
 # References 
 
