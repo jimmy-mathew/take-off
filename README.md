@@ -1,3 +1,3 @@
 
 # Learning materials
-    Decrypt SSL/TLS traffic [Decrypt SSL](../docs/DecryptSSL.md)
+    [Decrypt SSL/TLS traffic](docs/DecryptSSL.md)
