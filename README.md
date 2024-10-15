@@ -1,5 +1,5 @@
 
-# Learning materials
+# Learning curves to take
   
 ## Decrypt TLS traffic using wireshark [Decrypt TLS traffic](docs/DecryptSSL.md)
 
