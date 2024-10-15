@@ -1,4 +1,4 @@
 
 # Learning materials
   
-## [Decrypt TLS traffic](docs/DecryptSSL.md)
+## Decrypt TLS traffic using wireshark [Decrypt TLS traffic](docs/DecryptSSL.md)
